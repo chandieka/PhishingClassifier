@@ -1,3 +1,4 @@
 datasets/clean/*
 datasets/explored/*
+datasets/raw/enron-emails.csv
 datasets/enron-emails.csv
