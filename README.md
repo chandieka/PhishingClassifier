@@ -1,5 +1,8 @@
 # Phishing Classifier with ML
 
-TODO:
+## Setup
+    $ python setup.py
+
+## TODO
 - Hyperparameter tuning
 - visualization
