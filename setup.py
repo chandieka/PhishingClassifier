@@ -11,6 +11,7 @@ def main():
         './datasets/explored',
         './datasets/clean',
         './datasets/training',
+        './datasets/test'
     ]
     
     print("[1] Creating Directories")
