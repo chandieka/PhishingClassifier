@@ -1,4 +1,5 @@
 # Phishing Classifier with ML
+This is an attempt to create an AI model to classify whether an email is a phishing attempt or not, by comparing different model estimator to find which one perform better then the rest.
 
 ## Setup
 Run the script bellow to prep the project and download the larger datasets
