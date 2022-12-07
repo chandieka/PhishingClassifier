@@ -17,3 +17,4 @@ From top to bottom:
 
 ## TODO
 - visualization
+- Context analysis
