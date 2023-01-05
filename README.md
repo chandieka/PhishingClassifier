@@ -8,7 +8,7 @@ Run the script bellow to prep the project and download the larger datasets
     $ python setup.py
 
 ## Order of execution
-Before running the script listed bellow, ensure the setup is done.
+Before running the script listed bellow, run the setup script at least once.
 
 From top to bottom:
 - enron-parser -> this Script process the "raw" legitimate email to a paletable version
