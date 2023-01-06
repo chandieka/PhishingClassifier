@@ -16,7 +16,3 @@ From top to bottom:
 - feature-exploration -> this script contains the step taken to extract the features from the cleaned and prepared datasets
 - visualization -> this script visualize the datasets into several graph
 - training -> this script compare several different estimator using different metric such as F1 score, accuracy, precise and recall.
-
-## TODO
-- visualization
-- Context analysis
